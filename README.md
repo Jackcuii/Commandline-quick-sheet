@@ -3,3 +3,5 @@
 当Markdown版本完全维护完后，将会排版为一个供打印的卡片形式。
 
 本文基于[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)构建。
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
